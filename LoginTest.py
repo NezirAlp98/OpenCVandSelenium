@@ -41,3 +41,4 @@ assert "secure" in link
 driver.find_element(By.CSS_SELECTOR,"a.button").click()
 time.sleep(1)
 
+#yeni ekleme
